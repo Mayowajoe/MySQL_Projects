@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,price,cost,supplier_id
+1,Hyper Tough Team Sports Your,Sports & Outdoors,Team Sports,62.31,39.46,37
+2,Mainstays Storage Receive,Household,Storage,55.29,40.79,83
+3,Mainstays Beverages Deal,Grocery,Beverages,10.59,5.91,81
+4,George Action Figures Theory,Toys,Action Figures,25.27,14.24,57
+5,Equate Storage Allow,Household,Storage,53.73,39.34,200
+6,Hyper Tough Bath President,Baby,Bath,21.64,12.08,31
+7,Ozark Trail Vitamins Phone,Health & Beauty,Vitamins,6.62,3.65,38
+8,Equate Beverages Read,Grocery,Beverages,6.01,4.76,138
+9,Parent's Choice Smartphones Security,Electronics,Smartphones,300.31,167.31,8
+10,Better Homes Men Arm,Apparel,Men,38.76,21.43,144
+11,Equate Feeding Page,Baby,Feeding,46.05,35.61,150
+12,Parent's Choice Storage Girl,Household,Storage,19.86,13.43,155
+13,Better Homes Action Figures During,Toys,Action Figures,53.28,41.23,26
+14,Ozark Trail Cleaning Once,Household,Cleaning,11.65,9.01,97
+15,Onn Accessories Pass,Electronics,Accessories,93.55,71.72,38
+16,Great Value Educational Before,Toys,Educational,111.26,65.11,67
+17,Hart Educational Exactly,Toys,Educational,41.55,29.33,43
+18,Hart Diapers During,Baby,Diapers,40.97,24.91,163
+19,Equate Laptops Authority,Electronics,Laptops,386.9,274.96,121
+20,Great Value Paper Goods Admit,Household,Paper Goods,20.82,13.85,133
+21,Equate Feeding Relationship,Baby,Feeding,25.96,17.6,164
+22,Better Homes Snacks Foreign,Grocery,Snacks,7.68,5.08,54
+23,Equate Women Action,Apparel,Women,45.93,28.9,89
+24,Equate Personal Care About,Health & Beauty,Personal Care,29.93,17.37,50
+25,George Accessories Human,Electronics,Accessories,31.45,18.46,141
+26,Onn Team Sports Middle,Sports & Outdoors,Team Sports,44.06,33.9,20
+27,Great Value Educational Really,Toys,Educational,64.4,49.81,147
+28,Great Value Kids Product,Apparel,Kids,39.67,23.72,6
+29,Onn Vitamins Somebody,Health & Beauty,Vitamins,19.36,15.41,183
+30,Ozark Trail Bath Old,Baby,Bath,22.83,16.17,7
+31,Hart Team Sports Away,Sports & Outdoors,Team Sports,17.96,14.27,80
+32,Great Value Men Find,Apparel,Men,36.96,26.39,15
+33,Mainstays Men East,Apparel,Men,47.88,31.31,134
+34,Mainstays Kitchen Medical,Household,Kitchen,58.71,38.41,115
+35,Better Homes Paper Goods Bad,Household,Paper Goods,5.37,3.83,39
+36,Onn Camping Fact,Sports & Outdoors,Camping,38.99,25.07,27
+37,Hart Games Friend,Toys,Games,67.09,43.32,74
+38,Hyper Tough Cosmetics High,Health & Beauty,Cosmetics,19.6,12.26,81
+39,Parent's Choice Storage Piece,Household,Storage,34.27,24.05,72
+40,Hyper Tough TVs Approach,Electronics,TVs,1475.84,936.33,182
+41,Equate Paper Goods City,Household,Paper Goods,13.62,8.65,23
+42,Ozark Trail OTC Media,Health & Beauty,OTC,19.87,12.52,33
+43,Onn Storage Present,Household,Storage,30.44,20.97,87
+44,Hyper Tough Camping Edge,Sports & Outdoors,Camping,12.65,8.93,66
+45,Mainstays Produce Bit,Grocery,Produce,1.44,0.83,198
+46,Equate TVs Mouth,Electronics,TVs,1390.71,1098.01,27
+47,Hyper Tough Accessories Memory,Electronics,Accessories,118.89,85.69,56
+48,Equate TVs Mrs,Electronics,TVs,219.78,168.2,126
+49,George Camping Grow,Sports & Outdoors,Camping,102.66,78.2,28
+50,George Paper Goods Until,Household,Paper Goods,12.57,7.54,184
+51,Hyper Tough Beverages Yeah,Grocery,Beverages,8.05,5.35,4
+52,Equate Footwear Lead,Apparel,Footwear,80.65,61.04,46
+53,Hart Laptops Television,Electronics,Laptops,1172.39,807.02,77
+54,Equate Vitamins Summer,Health & Beauty,Vitamins,26.65,20.82,172
+55,Better Homes Team Sports Us,Sports & Outdoors,Team Sports,61.82,35.1,160
+56,Better Homes Cosmetics Low,Health & Beauty,Cosmetics,48.12,32.71,25
+57,Onn Smartphones Evidence,Electronics,Smartphones,867.47,581.26,39
+58,Onn Camping Dream,Sports & Outdoors,Camping,54.12,33.56,52
+59,Hart Team Sports Nothing,Sports & Outdoors,Team Sports,78.59,53.81,144
+60,Better Homes Action Figures Piece,Toys,Action Figures,17.6,10.7,145
+61,Great Value Kitchen Nature,Household,Kitchen,14.83,9.84,140
+62,Onn Paper Goods Thus,Household,Paper Goods,12.05,8.19,127
+63,George Educational Four,Toys,Educational,83.54,54.4,66
+64,Ozark Trail Bakery Traditional,Grocery,Bakery,5.73,3.81,194
+65,Parent's Choice Footwear Sort,Apparel,Footwear,17.23,10.46,198
+66,Ozark Trail Storage Gun,Household,Storage,28.34,21.68,15
+67,George Bath Window,Baby,Bath,31.46,20.66,104
+68,Hart Vitamins Bar,Health & Beauty,Vitamins,25.34,16.76,39
+69,Equate Kids Simple,Apparel,Kids,24.31,14.89,118
+70,Ozark Trail Vitamins Experience,Health & Beauty,Vitamins,34.16,23.01,51
+71,Equate Smartphones Wind,Electronics,Smartphones,231.97,128.36,105
+72,Onn Men Family,Apparel,Men,17.76,9.86,65
+73,George Beverages Plan,Grocery,Beverages,1.69,1.3,48
+74,Hyper Tough Diapers Value,Baby,Diapers,33.05,24.32,85
+75,Parent's Choice Storage Building,Household,Storage,41.7,25.49,50
+76,Great Value Audio Sense,Electronics,Audio,165.95,98.41,116
+77,Hyper Tough Men Policy,Apparel,Men,52.26,34.33,169
+78,Hart Fitness Without,Sports & Outdoors,Fitness,219.64,156.19,180
+79,Parent's Choice Produce Defense,Grocery,Produce,5.87,3.71,72
+80,Onn Paper Goods Station,Household,Paper Goods,22.74,17.57,62
+81,Onn TVs Public,Electronics,TVs,1219.28,860.36,84
+82,Hyper Tough Fitness More,Sports & Outdoors,Fitness,167.15,95.75,23
+83,Onn Feeding Them,Baby,Feeding,17.73,10.81,173
+84,Ozark Trail Fitness Look,Sports & Outdoors,Fitness,261.71,185.22,2
+85,George Men Part,Apparel,Men,44.75,33.46,65
+86,George Vitamins Reduce,Health & Beauty,Vitamins,17.52,11.88,37
+87,Great Value OTC Authority,Health & Beauty,OTC,22.26,15.85,134
+88,George Games Reveal,Toys,Games,77.65,44.34,146
+89,Better Homes Dairy Increase,Grocery,Dairy,3.51,1.95,135
+90,Ozark Trail Diapers Person,Baby,Diapers,37.3,22.51,44
+91,Parent's Choice Produce Doctor,Grocery,Produce,2.35,1.72,153
+92,Ozark Trail Camping Me,Sports & Outdoors,Camping,193.66,114.26,165
+93,Ozark Trail Smartphones Form,Electronics,Smartphones,234.25,177.97,66
+94,Ozark Trail Storage Education,Household,Storage,43.45,26.64,44
+95,Hyper Tough Beverages Maybe,Grocery,Beverages,5.73,4.49,130
+96,Equate Diapers Art,Baby,Diapers,21.78,16.85,81
+97,Equate Storage Participant,Household,Storage,42.48,30.59,45
+98,Onn Diapers Land,Baby,Diapers,57.12,43.17,99
+99,Parent's Choice OTC Money,Health & Beauty,OTC,33.59,26.21,140
+100,George Action Figures Hold,Toys,Action Figures,29.82,19.27,42
+101,Onn Camping Ask,Sports & Outdoors,Camping,157.59,115.0,105
+102,Parent's Choice Personal Care Will,Health & Beauty,Personal Care,37.12,24.87,116
+103,Onn Diapers With,Baby,Diapers,12.43,8.71,92
+104,Hyper Tough Team Sports Model,Sports & Outdoors,Team Sports,91.9,73.45,183
+105,Mainstays Canned Goods Discussion,Grocery,Canned Goods,7.46,5.65,77
+106,George Laptops Stop,Electronics,Laptops,1787.58,1301.9,6
+107,Hyper Tough Snacks Middle,Grocery,Snacks,2.38,1.68,54
+108,Ozark Trail Educational Enjoy,Toys,Educational,14.65,10.47,11
+109,Mainstays Snacks Happy,Grocery,Snacks,5.43,3.91,194
+110,George Bath Care,Baby,Bath,33.55,25.02,145
+111,Parent's Choice Audio Event,Electronics,Audio,120.54,67.67,7
+112,Onn Bath Know,Baby,Bath,30.59,22.99,195
+113,Hart Camping Unit,Sports & Outdoors,Camping,78.65,44.78,61
+114,Equate Games Decide,Toys,Games,59.32,46.09,172
+115,Onn Smartphones Admit,Electronics,Smartphones,153.69,109.32,140
+116,Hart Kitchen Difference,Household,Kitchen,27.32,21.26,48
+117,Mainstays Bakery Measure,Grocery,Bakery,1.96,1.43,107
+118,Ozark Trail Bakery Machine,Grocery,Bakery,5.13,3.53,33
+119,Great Value Educational Generation,Toys,Educational,29.37,20.21,49
+120,George Action Figures Push,Toys,Action Figures,18.96,12.43,102
+121,Equate Vitamins Go,Health & Beauty,Vitamins,14.79,9.03,90
+122,Better Homes Games Unit,Toys,Games,65.93,41.22,149
+123,Mainstays Paper Goods Boy,Household,Paper Goods,9.38,6.6,141
+124,George Personal Care International,Health & Beauty,Personal Care,6.29,4.55,111
+125,Mainstays Footwear At,Apparel,Footwear,30.43,23.71,14
+126,Equate Bath To,Baby,Bath,19.01,12.12,158
+127,Better Homes Paper Goods Hundred,Household,Paper Goods,11.85,8.71,41
+128,Equate Paper Goods Current,Household,Paper Goods,6.13,4.45,64
+129,Great Value Storage Administration,Household,Storage,58.63,45.05,78
+130,Onn OTC Property,Health & Beauty,OTC,32.75,22.28,66
+131,Better Homes Games Prepare,Toys,Games,44.85,26.92,123
+132,Great Value Men Writer,Apparel,Men,47.79,31.9,25
+133,Hart Action Figures Lot,Toys,Action Figures,8.98,6.7,26
+134,Mainstays OTC Entire,Health & Beauty,OTC,27.85,16.41,7
+135,Parent's Choice Camping Feel,Sports & Outdoors,Camping,176.99,136.63,35
+136,Hyper Tough Produce Different,Grocery,Produce,5.27,2.9,38
+137,Equate Canned Goods Who,Grocery,Canned Goods,4.03,2.57,100
+138,George Cosmetics Economy,Health & Beauty,Cosmetics,38.09,26.72,92
+139,Hyper Tough Team Sports These,Sports & Outdoors,Team Sports,145.88,100.47,127
+140,Great Value Kids After,Apparel,Kids,21.8,17.43,47
+141,Great Value Cleaning International,Household,Cleaning,19.72,11.11,132
+142,Ozark Trail Bakery Goal,Grocery,Bakery,8.42,6.27,145
+143,Parent's Choice Kids Staff,Apparel,Kids,35.07,25.06,171
+144,Hyper Tough Personal Care Happen,Health & Beauty,Personal Care,36.06,21.58,126
+145,Parent's Choice Kitchen Instead,Household,Kitchen,15.7,9.85,172
+146,George Camping Assume,Sports & Outdoors,Camping,179.5,138.5,117
+147,Great Value Smartphones Structure,Electronics,Smartphones,698.8,479.61,74
+148,Ozark Trail Kitchen Month,Household,Kitchen,29.98,19.49,152
+149,Better Homes Team Sports Concern,Sports & Outdoors,Team Sports,97.67,60.72,38
+150,George Fitness Reveal,Sports & Outdoors,Fitness,90.83,53.56,187
+151,Equate Footwear Language,Apparel,Footwear,82.73,53.68,23
+152,Better Homes Laptops Forward,Electronics,Laptops,1173.37,657.67,40
+153,Better Homes Smartphones Even,Electronics,Smartphones,280.72,210.1,20
+154,Parent's Choice Women Tough,Apparel,Women,76.42,43.41,68
+155,Hart Smartphones Party,Electronics,Smartphones,946.35,715.84,130
+156,Parent's Choice Camping Student,Sports & Outdoors,Camping,81.5,48.03,164
+157,Great Value Women Interest,Apparel,Women,48.27,28.81,38
+158,Hyper Tough Paper Goods Other,Household,Paper Goods,13.55,9.98,53
+159,Ozark Trail Cosmetics Market,Health & Beauty,Cosmetics,47.95,36.45,187
+160,Equate Bath Cold,Baby,Bath,34.19,19.69,5
+161,Parent's Choice Games Window,Toys,Games,27.25,21.05,80
+162,Hart Educational Free,Toys,Educational,79.88,53.36,162
+163,Better Homes Snacks Bill,Grocery,Snacks,10.24,7.51,187
+164,George OTC Clear,Health & Beauty,OTC,19.52,12.96,167
+165,Great Value Produce Visit,Grocery,Produce,5.03,3.94,59
+166,Parent's Choice Footwear Dream,Apparel,Footwear,104.56,82.94,136
+167,Parent's Choice Laptops Themselves,Electronics,Laptops,734.48,450.86,120
+168,Hyper Tough Educational Indeed,Toys,Educational,113.84,63.99,86
+169,George Educational Low,Toys,Educational,89.64,70.65,109
+170,Great Value Women Establish,Apparel,Women,71.4,45.11,74
+171,Better Homes Paper Goods Structure,Household,Paper Goods,13.1,8.03,157
+172,Parent's Choice Produce Company,Grocery,Produce,3.7,2.19,191
+173,Mainstays Cosmetics Natural,Health & Beauty,Cosmetics,32.78,22.33,73
+174,Hart Cosmetics Room,Health & Beauty,Cosmetics,5.92,4.03,3
+175,Mainstays Laptops When,Electronics,Laptops,884.88,580.47,161
+176,Mainstays Produce Spend,Grocery,Produce,1.07,0.6,50
+177,Onn Personal Care Down,Health & Beauty,Personal Care,26.06,19.81,185
+178,George OTC Tv,Health & Beauty,OTC,8.1,5.9,90
+179,Mainstays Bakery Single,Grocery,Bakery,4.0,2.25,27
+180,Great Value Men Note,Apparel,Men,57.85,42.44,179
+181,Better Homes Team Sports Fast,Sports & Outdoors,Team Sports,45.33,29.63,69
+182,Equate Camping Heart,Sports & Outdoors,Camping,17.49,13.33,186
+183,Hyper Tough OTC Trouble,Health & Beauty,OTC,29.91,22.54,13
+184,Great Value Cosmetics Even,Health & Beauty,Cosmetics,22.7,13.88,113
+185,Mainstays Canned Goods Century,Grocery,Canned Goods,2.5,1.46,79
+186,George OTC Former,Health & Beauty,OTC,19.79,14.58,150
+187,Better Homes Produce Enter,Grocery,Produce,2.14,1.2,113
+188,George Audio Major,Electronics,Audio,80.26,45.47,151
+189,Mainstays Footwear Success,Apparel,Footwear,21.52,15.96,55
+190,Mainstays Camping Page,Sports & Outdoors,Camping,130.8,74.14,55
+191,Parent's Choice Games Reveal,Toys,Games,65.59,38.82,173
+192,Ozark Trail Footwear Later,Apparel,Footwear,61.46,43.74,65
+193,Equate Storage North,Household,Storage,22.73,15.67,198
+194,Parent's Choice Diapers Form,Baby,Diapers,46.99,34.14,40
+195,Mainstays Paper Goods Check,Household,Paper Goods,16.18,12.91,196
+196,Onn Bath Cup,Baby,Bath,19.56,12.78,99
+197,George Personal Care Rule,Health & Beauty,Personal Care,24.55,13.94,30
+198,Hyper Tough Paper Goods Part,Household,Paper Goods,3.68,2.71,38
+199,Onn Men Whole,Apparel,Men,52.38,34.02,29
+200,Mainstays Audio Town,Electronics,Audio,187.12,122.93,145
+201,Hyper Tough Bath Whole,Baby,Bath,4.11,3.25,119
+202,Onn Accessories Establish,Electronics,Accessories,60.09,34.62,113
+203,Equate Produce Visit,Grocery,Produce,4.72,3.66,3
+204,Great Value Action Figures Me,Toys,Action Figures,41.23,29.1,137
+205,Great Value Smartphones Social,Electronics,Smartphones,401.73,236.95,110
+206,Equate Paper Goods Current,Household,Paper Goods,11.84,8.22,167
+207,Better Homes OTC Throw,Health & Beauty,OTC,6.26,4.03,174
+208,Equate Beverages Join,Grocery,Beverages,10.51,6.59,96
+209,Equate Team Sports Center,Sports & Outdoors,Team Sports,56.83,31.38,95
+210,Parent's Choice Women Imagine,Apparel,Women,14.55,8.84,173
+211,George Diapers Show,Baby,Diapers,59.86,40.78,191
+212,Onn Camping Reveal,Sports & Outdoors,Camping,91.34,71.44,16
+213,Hart Men Every,Apparel,Men,21.08,13.4,38
+214,Great Value Personal Care Leave,Health & Beauty,Personal Care,10.1,6.12,56
+215,Hart Beverages Raise,Grocery,Beverages,10.96,8.7,46
+216,Hart Personal Care Among,Health & Beauty,Personal Care,34.68,21.56,31
+217,Great Value Games Tax,Toys,Games,35.74,28.51,130
+218,Mainstays Men Out,Apparel,Men,36.8,25.11,170
+219,Onn Action Figures Station,Toys,Action Figures,13.86,8.74,99
+220,George Team Sports Military,Sports & Outdoors,Team Sports,122.37,71.57,6
+221,Equate Footwear Cost,Apparel,Footwear,74.12,51.77,186
+222,Equate Diapers You,Baby,Diapers,22.7,17.36,187
+223,George Men Huge,Apparel,Men,25.41,15.14,100
+224,Better Homes Fitness Scientist,Sports & Outdoors,Fitness,36.41,24.34,173
+225,Ozark Trail Fitness Push,Sports & Outdoors,Fitness,71.08,55.95,193
+226,Better Homes Smartphones Stage,Electronics,Smartphones,923.66,601.25,98
+227,Hyper Tough Paper Goods Necessary,Household,Paper Goods,12.18,9.63,54
+228,Onn Team Sports Finally,Sports & Outdoors,Team Sports,114.76,88.04,157
+229,George Games Glass,Toys,Games,71.81,44.1,137
+230,Equate Cosmetics Lay,Health & Beauty,Cosmetics,24.16,15.64,52
+231,Ozark Trail Vitamins Radio,Health & Beauty,Vitamins,23.48,14.16,116
+232,Great Value Personal Care Yes,Health & Beauty,Personal Care,7.98,4.73,196
+233,Ozark Trail Paper Goods Page,Household,Paper Goods,3.14,1.81,15
+234,Parent's Choice Storage Exactly,Household,Storage,26.83,16.79,86
+235,Equate Diapers Several,Baby,Diapers,36.26,21.83,56
+236,George Educational Region,Toys,Educational,70.17,51.62,101
+237,Ozark Trail Cleaning Spring,Household,Cleaning,10.52,7.58,92
+238,Hyper Tough Paper Goods Task,Household,Paper Goods,18.26,14.3,31
+239,Parent's Choice Camping Already,Sports & Outdoors,Camping,152.16,93.79,65
+240,Hyper Tough Action Figures Foreign,Toys,Action Figures,28.07,18.84,185
+241,Mainstays Fitness Media,Sports & Outdoors,Fitness,284.08,171.47,82
+242,Hart Action Figures Present,Toys,Action Figures,42.81,28.58,89
+243,Hart Bath Value,Baby,Bath,39.73,28.6,162
+244,Hart Bath Issue,Baby,Bath,17.04,10.73,7
+245,Equate Footwear Education,Apparel,Footwear,67.16,47.01,188
+246,Better Homes Educational Lose,Toys,Educational,56.4,38.62,26
+247,Mainstays Men Artist,Apparel,Men,45.99,34.87,122
+248,Mainstays Fitness Executive,Sports & Outdoors,Fitness,23.91,18.42,2
+249,Hart Canned Goods Form,Grocery,Canned Goods,5.93,3.89,71
+250,Equate Diapers Simple,Baby,Diapers,10.17,6.22,9
+251,Ozark Trail Canned Goods Another,Grocery,Canned Goods,3.78,2.52,73
+252,Parent's Choice Kitchen Threat,Household,Kitchen,21.13,12.7,84
+253,Mainstays Storage Indicate,Household,Storage,17.25,12.72,92
+254,Great Value Women Prepare,Apparel,Women,71.0,49.95,167
+255,Onn Cleaning Program,Household,Cleaning,28.62,20.02,59
+256,Great Value Educational Pretty,Toys,Educational,47.52,27.84,112
+257,Great Value Action Figures Arrive,Toys,Action Figures,21.38,14.2,113
+258,Equate Accessories Range,Electronics,Accessories,102.37,64.2,60
+259,Onn Bath Quality,Baby,Bath,30.11,17.07,194
+260,Ozark Trail Snacks View,Grocery,Snacks,4.14,3.12,56
+261,Mainstays Cleaning Return,Household,Cleaning,29.1,19.48,156
+262,Better Homes Smartphones Accept,Electronics,Smartphones,263.22,153.52,36
+263,Onn Games Blood,Toys,Games,38.23,22.61,199
+264,Onn Bath Three,Baby,Bath,6.34,4.07,147
+265,Hyper Tough Vitamins Peace,Health & Beauty,Vitamins,33.56,22.97,177
+266,Great Value Camping Act,Sports & Outdoors,Camping,26.03,18.61,91
+267,Onn Personal Care Wife,Health & Beauty,Personal Care,30.74,17.95,89
+268,Great Value Bakery Most,Grocery,Bakery,9.77,5.47,25
+269,Great Value Paper Goods Say,Household,Paper Goods,7.3,4.04,32
+270,Parent's Choice Action Figures Chance,Toys,Action Figures,57.23,36.18,106
+271,Mainstays Cosmetics Know,Health & Beauty,Cosmetics,33.0,25.47,123
+272,George Games Amount,Toys,Games,68.84,40.71,155
+273,Hyper Tough Accessories Rate,Electronics,Accessories,57.41,34.12,196
+274,Hyper Tough Paper Goods Turn,Household,Paper Goods,15.16,8.43,98
+275,Hyper Tough Snacks Gas,Grocery,Snacks,11.59,8.14,89
+276,Parent's Choice Cleaning Operation,Household,Cleaning,25.98,17.42,152
+277,Hyper Tough Feeding Wear,Baby,Feeding,26.89,16.3,165
+278,Great Value Games Between,Toys,Games,34.55,24.28,97
+279,Hyper Tough Team Sports White,Sports & Outdoors,Team Sports,42.06,28.67,104
+280,Equate Kids Community,Apparel,Kids,25.71,19.78,103
+281,Ozark Trail Smartphones Community,Electronics,Smartphones,298.32,202.52,42
+282,Mainstays Fitness Smile,Sports & Outdoors,Fitness,185.8,128.1,157
+283,Hart OTC Above,Health & Beauty,OTC,12.83,9.47,26
+284,Mainstays Smartphones Today,Electronics,Smartphones,305.07,225.03,53
+285,Mainstays Canned Goods Conference,Grocery,Canned Goods,1.12,0.67,181
+286,Mainstays Men Wall,Apparel,Men,58.8,43.21,177
+287,Better Homes Personal Care Bill,Health & Beauty,Personal Care,32.43,22.95,193
+288,Parent's Choice Produce Support,Grocery,Produce,1.15,0.91,130
+289,Ozark Trail Beverages Individual,Grocery,Beverages,7.77,5.19,118
+290,Great Value TVs Key,Electronics,TVs,1202.86,662.23,99
+291,Hyper Tough Camping Knowledge,Sports & Outdoors,Camping,49.08,27.07,143
+292,Hyper Tough Kids Old,Apparel,Kids,33.42,19.75,44
+293,Equate Fitness Risk,Sports & Outdoors,Fitness,68.72,54.27,64
+294,Hart Camping Most,Sports & Outdoors,Camping,100.5,63.25,153
+295,Onn Accessories Fish,Electronics,Accessories,81.97,58.05,73
+296,Hyper Tough Produce Bad,Grocery,Produce,0.55,0.4,150
+297,Great Value Bath State,Baby,Bath,22.33,14.7,64
+298,Onn OTC Same,Health & Beauty,OTC,29.4,17.13,106
+299,Equate Diapers How,Baby,Diapers,27.04,17.63,103
+300,Onn Women Door,Apparel,Women,9.34,6.77,150
+301,Parent's Choice Kitchen Line,Household,Kitchen,31.34,23.8,11
+302,George Kitchen Style,Household,Kitchen,75.68,60.29,98
+303,Hyper Tough Team Sports No,Sports & Outdoors,Team Sports,18.95,11.21,80
+304,Hyper Tough Bakery Matter,Grocery,Bakery,8.1,5.66,133
+305,Better Homes Women Provide,Apparel,Women,31.13,19.9,163
+306,Better Homes Laptops Try,Electronics,Laptops,1558.15,1131.85,96
+307,Great Value Diapers Including,Baby,Diapers,54.49,39.51,200
+308,Hart Kitchen Board,Household,Kitchen,59.15,42.39,4
+309,Equate Audio Remain,Electronics,Audio,35.46,27.97,122
+310,Onn Feeding Man,Baby,Feeding,41.75,29.8,25
+311,Equate OTC Agency,Health & Beauty,OTC,4.79,3.74,41
+312,Ozark Trail Cosmetics Why,Health & Beauty,Cosmetics,10.85,8.6,127
+313,Onn Smartphones Cup,Electronics,Smartphones,253.26,162.3,117
+314,Parent's Choice Feeding Thing,Baby,Feeding,29.7,22.25,9
+315,Onn Vitamins Much,Health & Beauty,Vitamins,31.3,24.18,15
+316,Parent's Choice Accessories Economy,Electronics,Accessories,59.65,45.55,129
+317,George Canned Goods Find,Grocery,Canned Goods,6.55,4.46,197
+318,Better Homes Action Figures Type,Toys,Action Figures,12.08,9.23,7
+319,Ozark Trail Storage Spend,Household,Storage,42.23,30.35,47
+320,Equate Camping Television,Sports & Outdoors,Camping,18.3,12.36,41
+321,Parent's Choice Educational Organization,Toys,Educational,104.02,59.93,5
+322,Better Homes Personal Care Test,Health & Beauty,Personal Care,13.38,9.22,113
+323,Mainstays Bakery Table,Grocery,Bakery,7.99,5.41,19
+324,Equate Snacks Fall,Grocery,Snacks,9.49,7.47,17
+325,Onn Vitamins Such,Health & Beauty,Vitamins,11.1,7.97,146
+326,Mainstays Games Specific,Toys,Games,61.51,41.91,80
+327,Equate Action Figures Popular,Toys,Action Figures,30.97,22.66,135
+328,Parent's Choice Camping Example,Sports & Outdoors,Camping,61.93,48.15,85
+329,Equate Diapers Picture,Baby,Diapers,22.38,16.97,198
+330,Hyper Tough Cleaning Opportunity,Household,Cleaning,28.94,16.51,18
+331,Hyper Tough Games Former,Toys,Games,11.06,7.15,148
+332,Ozark Trail Fitness Author,Sports & Outdoors,Fitness,158.96,115.03,19
+333,Parent's Choice Team Sports Suddenly,Sports & Outdoors,Team Sports,100.28,61.03,141
+334,Equate Footwear Outside,Apparel,Footwear,23.39,17.87,158
+335,Great Value Vitamins Bed,Health & Beauty,Vitamins,36.39,27.68,88
+336,Onn Storage Certain,Household,Storage,38.67,22.75,74
+337,Better Homes Kids Understand,Apparel,Kids,13.34,7.76,57
+338,Hyper Tough Produce And,Grocery,Produce,4.9,3.51,42
+339,Hyper Tough Canned Goods Discover,Grocery,Canned Goods,6.49,4.63,4
+340,Great Value Diapers After,Baby,Diapers,30.59,20.45,104
+341,Hyper Tough Men Professor,Apparel,Men,56.33,33.14,183
+342,Onn Cosmetics Letter,Health & Beauty,Cosmetics,5.31,3.79,200
+343,Equate Laptops Behavior,Electronics,Laptops,776.19,476.18,115
+344,Equate Vitamins Building,Health & Beauty,Vitamins,9.38,5.41,199
+345,Hyper Tough Vitamins Yard,Health & Beauty,Vitamins,9.59,6.82,15
+346,Onn Kids Wife,Apparel,Kids,30.37,21.22,82
+347,Hyper Tough Beverages Daughter,Grocery,Beverages,1.61,1.08,148
+348,Onn Camping Employee,Sports & Outdoors,Camping,49.23,37.35,106
+349,Hyper Tough Kids Me,Apparel,Kids,33.37,20.27,100
+350,Hart Feeding Force,Baby,Feeding,43.86,28.2,8
+351,Ozark Trail Storage Major,Household,Storage,37.15,24.34,93
+352,Hart Games Away,Toys,Games,19.4,15.06,106
+353,Better Homes Men Agency,Apparel,Men,33.0,18.17,53
+354,Ozark Trail Kitchen Under,Household,Kitchen,54.63,34.29,114
+355,Parent's Choice Snacks Tonight,Grocery,Snacks,13.76,10.83,11
+356,Ozark Trail Storage Just,Household,Storage,8.2,6.41,143
+357,George Audio Quality,Electronics,Audio,294.87,187.98,190
+358,Onn Dairy College,Grocery,Dairy,5.63,3.41,92
+359,Better Homes Bath Analysis,Baby,Bath,5.17,4.07,129
+360,Mainstays Smartphones If,Electronics,Smartphones,492.63,357.45,110
+361,Hart Footwear Good,Apparel,Footwear,102.26,73.14,77
+362,Mainstays Storage National,Household,Storage,33.8,22.69,127
+363,Mainstays Fitness Little,Sports & Outdoors,Fitness,278.59,179.61,32
+364,Ozark Trail Canned Goods Company,Grocery,Canned Goods,1.88,1.31,183
+365,George Canned Goods Current,Grocery,Canned Goods,6.0,3.51,81
+366,Parent's Choice Audio Number,Electronics,Audio,285.04,174.35,164
+367,Ozark Trail Action Figures Along,Toys,Action Figures,45.71,30.26,123
+368,Hyper Tough Team Sports Son,Sports & Outdoors,Team Sports,113.13,75.17,186
+369,Onn Fitness His,Sports & Outdoors,Fitness,83.31,61.62,21
+370,Ozark Trail Feeding Past,Baby,Feeding,44.54,28.47,95
+371,Hart Paper Goods Growth,Household,Paper Goods,7.7,4.31,155
+372,George Action Figures Candidate,Toys,Action Figures,36.43,22.35,70
+373,George Educational Dog,Toys,Educational,81.98,57.69,9
+374,Equate Smartphones Adult,Electronics,Smartphones,298.53,208.7,7
+375,Better Homes Smartphones Service,Electronics,Smartphones,455.17,355.8,15
+376,Parent's Choice Games Medical,Toys,Games,43.84,33.87,57
+377,Hart Audio Other,Electronics,Audio,58.61,40.9,127
+378,George Bakery Edge,Grocery,Bakery,3.39,2.33,10
+379,Mainstays Games Current,Toys,Games,53.11,40.85,131
+380,Hyper Tough Bath Environmental,Baby,Bath,39.77,22.79,186
+381,Parent's Choice Laptops Grow,Electronics,Laptops,1329.83,1050.65,79
+382,Parent's Choice TVs Room,Electronics,TVs,806.19,616.87,29
+383,Hyper Tough Educational What,Toys,Educational,112.3,72.94,47
+384,Mainstays Canned Goods Trade,Grocery,Canned Goods,7.25,4.08,132
+385,George Cosmetics Decade,Health & Beauty,Cosmetics,54.88,36.83,85
+386,Mainstays Vitamins Performance,Health & Beauty,Vitamins,7.49,5.7,79
+387,Great Value Dairy Thousand,Grocery,Dairy,3.81,2.89,147
+388,Onn Beverages Amount,Grocery,Beverages,6.64,3.97,109
+389,Better Homes Team Sports Like,Sports & Outdoors,Team Sports,68.52,39.15,77
+390,Onn Camping Eye,Sports & Outdoors,Camping,189.48,133.04,172
+391,Hart Games Example,Toys,Games,74.31,55.27,187
+392,Better Homes Games Worker,Toys,Games,71.54,43.98,189
+393,Better Homes Games Think,Toys,Games,58.43,37.52,41
+394,Hyper Tough Games Finish,Toys,Games,28.34,19.06,118
+395,Ozark Trail Storage Learn,Household,Storage,27.35,16.18,18
+396,Mainstays Storage Fly,Household,Storage,46.22,31.65,5
+397,Hart Laptops Sometimes,Electronics,Laptops,1513.32,1206.19,74
+398,Hyper Tough Accessories Laugh,Electronics,Accessories,56.67,37.15,168
+399,Ozark Trail OTC Though,Health & Beauty,OTC,9.18,6.7,95
+400,Equate Men Finish,Apparel,Men,21.08,13.03,125
+401,Great Value Dairy Citizen,Grocery,Dairy,5.88,3.28,153
+402,Better Homes Cleaning Discuss,Household,Cleaning,4.29,2.68,194
+403,Hyper Tough Accessories Cost,Electronics,Accessories,66.22,40.85,196
+404,Onn Bakery Whole,Grocery,Bakery,9.71,7.68,14
+405,Ozark Trail Bath Baby,Baby,Bath,32.62,18.05,83
+406,Mainstays Paper Goods Number,Household,Paper Goods,9.02,5.26,191
+407,Hart OTC Price,Health & Beauty,OTC,34.88,22.06,174
+408,George Footwear True,Apparel,Footwear,68.17,43.98,36
+409,Equate Canned Goods Yourself,Grocery,Canned Goods,4.19,3.11,19
+410,Better Homes Cleaning Ago,Household,Cleaning,14.61,10.4,135
+411,Parent's Choice Smartphones Own,Electronics,Smartphones,824.57,461.76,46
+412,Onn Smartphones Hand,Electronics,Smartphones,329.48,225.42,110
+413,Onn Cosmetics We,Health & Beauty,Cosmetics,50.44,36.96,63
+414,Parent's Choice Smartphones Prevent,Electronics,Smartphones,992.94,563.98,152
+415,Hyper Tough Fitness Arm,Sports & Outdoors,Fitness,232.32,148.81,6
+416,Great Value Audio Nation,Electronics,Audio,109.23,71.27,131
+417,Parent's Choice Games Office,Toys,Games,6.81,5.27,176
+418,Hyper Tough Laptops Door,Electronics,Laptops,1280.35,771.25,195
+419,Parent's Choice Action Figures Color,Toys,Action Figures,28.85,19.98,13
+420,George Paper Goods Factor,Household,Paper Goods,20.95,13.63,144
+421,Better Homes Snacks Media,Grocery,Snacks,11.55,7.62,100
+422,Ozark Trail Beverages Hair,Grocery,Beverages,11.54,7.41,21
+423,Better Homes Camping Huge,Sports & Outdoors,Camping,129.77,71.96,126
+424,Hart Snacks Final,Grocery,Snacks,9.98,7.09,76
+425,Mainstays Personal Care Tax,Health & Beauty,Personal Care,19.57,14.93,86
+426,Great Value Produce Difference,Grocery,Produce,5.26,3.87,170
+427,Ozark Trail Paper Goods Easy,Household,Paper Goods,17.94,12.39,148
+428,Great Value Laptops Through,Electronics,Laptops,998.13,612.85,90
+429,Mainstays Fitness Long,Sports & Outdoors,Fitness,209.57,166.92,70
+430,George Laptops Beautiful,Electronics,Laptops,1715.86,1036.46,128
+431,Mainstays Vitamins Its,Health & Beauty,Vitamins,9.71,6.85,49
+432,Hart TVs Sell,Electronics,TVs,810.07,515.76,22
+433,Parent's Choice Vitamins Nor,Health & Beauty,Vitamins,40.41,30.43,16
+434,Hyper Tough Educational Home,Toys,Educational,76.26,48.96,114
+435,Onn Kids Start,Apparel,Kids,14.15,9.98,197
+436,Hyper Tough Kids Trouble,Apparel,Kids,38.06,22.64,45
+437,Better Homes Accessories Born,Electronics,Accessories,115.3,65.49,87
+438,Mainstays OTC Resource,Health & Beauty,OTC,14.07,10.67,96
+439,Parent's Choice Feeding Perform,Baby,Feeding,27.43,17.49,142
+440,George Educational Station,Toys,Educational,14.91,8.98,112
+441,Equate Team Sports Same,Sports & Outdoors,Team Sports,97.63,63.87,65
+442,Mainstays Action Figures Approach,Toys,Action Figures,44.49,34.97,10
+443,Equate Camping Enter,Sports & Outdoors,Camping,115.84,80.89,95
+444,Great Value Diapers Certain,Baby,Diapers,24.0,14.84,78
+445,George Vitamins Cost,Health & Beauty,Vitamins,37.85,29.39,181
+446,Great Value Camping Against,Sports & Outdoors,Camping,117.26,75.71,152
+447,Ozark Trail Laptops Work,Electronics,Laptops,1785.78,1022.65,158
+448,Ozark Trail Games Wide,Toys,Games,73.92,53.33,122
+449,Mainstays Men Grow,Apparel,Men,39.6,23.3,48
+450,Onn Camping Near,Sports & Outdoors,Camping,20.07,14.16,198
+451,Great Value Fitness Whether,Sports & Outdoors,Fitness,175.02,128.62,5
+452,Great Value Team Sports Political,Sports & Outdoors,Team Sports,78.33,61.51,84
+453,Parent's Choice Fitness When,Sports & Outdoors,Fitness,190.08,143.49,1
+454,Hart Fitness Leg,Sports & Outdoors,Fitness,229.05,177.61,31
+455,George Audio Next,Electronics,Audio,142.5,87.5,93
+456,Equate Women Economy,Apparel,Women,9.79,6.32,181
+457,Better Homes Personal Care Story,Health & Beauty,Personal Care,9.68,5.42,181
+458,Hyper Tough Educational Time,Toys,Educational,101.5,63.28,113
+459,Mainstays Camping Board,Sports & Outdoors,Camping,90.99,65.24,168
+460,Parent's Choice Men Consumer,Apparel,Men,56.45,35.08,189
+461,George Diapers Me,Baby,Diapers,30.07,22.29,6
+462,Equate Games Sign,Toys,Games,57.24,35.36,186
+463,Better Homes Diapers Matter,Baby,Diapers,45.13,35.46,29
+464,Hyper Tough Team Sports Support,Sports & Outdoors,Team Sports,99.11,64.27,91
+465,George Men Hair,Apparel,Men,39.7,22.93,187
+466,Better Homes Bakery Sound,Grocery,Bakery,6.25,3.49,101
+467,George Dairy Art,Grocery,Dairy,4.17,3.21,82
+468,Great Value Storage Point,Household,Storage,41.9,23.25,62
+469,Great Value Canned Goods Best,Grocery,Canned Goods,7.09,4.2,38
+470,Equate Audio Political,Electronics,Audio,152.82,97.47,190
+471,George Educational Could,Toys,Educational,46.81,32.72,39
+472,Ozark Trail Cosmetics Base,Health & Beauty,Cosmetics,23.07,18.18,1
+473,Hart Games List,Toys,Games,32.45,24.57,136
+474,Better Homes Camping Option,Sports & Outdoors,Camping,60.73,37.55,113
+475,George Dairy Born,Grocery,Dairy,4.28,2.72,158
+476,Equate Feeding Hard,Baby,Feeding,37.7,29.17,155
+477,Equate Team Sports Technology,Sports & Outdoors,Team Sports,55.34,39.24,176
+478,Great Value Snacks Meet,Grocery,Snacks,4.7,2.76,122
+479,Equate Snacks Officer,Grocery,Snacks,11.68,8.36,155
+480,Hyper Tough Team Sports New,Sports & Outdoors,Team Sports,52.0,32.26,156
+481,Equate Women More,Apparel,Women,66.81,49.46,110
+482,Hart Kids Report,Apparel,Kids,11.01,7.97,96
+483,Great Value Bakery Staff,Grocery,Bakery,1.57,1.21,154
+484,Equate Personal Care Knowledge,Health & Beauty,Personal Care,4.98,3.5,50
+485,Equate Canned Goods Catch,Grocery,Canned Goods,3.97,2.89,150
+486,Better Homes Cosmetics Full,Health & Beauty,Cosmetics,54.76,36.62,117
+487,Onn Action Figures Establish,Toys,Action Figures,45.19,25.33,64
+488,Equate Storage Fund,Household,Storage,21.86,16.58,135
+489,Onn Kitchen Trip,Household,Kitchen,54.83,33.09,132
+490,Parent's Choice Educational Imagine,Toys,Educational,21.04,11.78,104
+491,Hart Accessories Blood,Electronics,Accessories,18.35,10.2,148
+492,Parent's Choice Footwear Whatever,Apparel,Footwear,46.04,36.2,191
+493,Parent's Choice Cosmetics Politics,Health & Beauty,Cosmetics,31.04,23.3,8
+494,George Men Fight,Apparel,Men,34.46,22.96,106
+495,Ozark Trail Personal Care Recent,Health & Beauty,Personal Care,8.27,6.28,35
+496,Equate Women Play,Apparel,Women,51.35,34.08,53
+497,Great Value Audio Player,Electronics,Audio,199.18,148.0,113
+498,Mainstays Men Try,Apparel,Men,38.11,23.17,101
+499,Mainstays Feeding Bag,Baby,Feeding,5.86,4.26,183
+500,Ozark Trail Diapers Yard,Baby,Diapers,17.42,12.92,46
+501,George Kids Hope,Apparel,Kids,34.1,20.99,112
+502,Onn Bath Reason,Baby,Bath,35.92,26.31,145
+503,Mainstays Laptops Religious,Electronics,Laptops,1079.2,718.51,162
+504,Parent's Choice Camping Fill,Sports & Outdoors,Camping,42.22,32.29,155
+505,Mainstays Footwear Rest,Apparel,Footwear,111.27,84.87,76
+506,Hyper Tough TVs National,Electronics,TVs,697.99,535.99,179
+507,Better Homes Kitchen Management,Household,Kitchen,76.37,60.07,30
+508,Parent's Choice Laptops All,Electronics,Laptops,1571.59,1098.79,165
+509,Mainstays Smartphones Actually,Electronics,Smartphones,483.45,266.43,192
+510,Onn Dairy Their,Grocery,Dairy,3.42,2.44,188
+511,Parent's Choice Personal Care Success,Health & Beauty,Personal Care,7.71,5.75,103
+512,George Feeding Talk,Baby,Feeding,38.8,27.06,82
+513,Equate Accessories Girl,Electronics,Accessories,7.01,4.19,131
+514,Mainstays Camping Happen,Sports & Outdoors,Camping,54.87,40.18,161
+515,Hart Storage Exactly,Household,Storage,35.68,21.89,26
+516,Ozark Trail Educational Hundred,Toys,Educational,32.53,22.59,138
+517,George Dairy Activity,Grocery,Dairy,5.79,3.81,140
+518,Great Value Fitness Whom,Sports & Outdoors,Fitness,89.08,53.24,163
+519,Hyper Tough Educational Change,Toys,Educational,60.3,36.6,44
+520,Mainstays Kids Effort,Apparel,Kids,19.04,11.96,138
+521,Better Homes Games Debate,Toys,Games,50.38,36.38,53
+522,Hart Vitamins In,Health & Beauty,Vitamins,21.39,13.44,159
+523,Great Value Games Mr,Toys,Games,78.56,50.2,53
+524,Mainstays Men Question,Apparel,Men,16.83,12.0,150
+525,Great Value Smartphones Hit,Electronics,Smartphones,688.38,400.42,154
+526,Equate OTC Total,Health & Beauty,OTC,25.33,15.98,109
+527,Mainstays TVs Church,Electronics,TVs,1348.07,1068.53,200
+528,Hyper Tough Action Figures Girl,Toys,Action Figures,53.47,35.04,143
+529,George Laptops Expect,Electronics,Laptops,1205.87,721.07,73
+530,Onn Diapers Record,Baby,Diapers,35.3,22.93,190
+531,George Kids Fine,Apparel,Kids,32.91,18.92,78
+532,Equate Personal Care War,Health & Beauty,Personal Care,6.65,4.35,24
+533,George Storage Grow,Household,Storage,42.57,29.59,99
+534,Ozark Trail Women Natural,Apparel,Women,62.57,42.71,79
+535,Onn Laptops Four,Electronics,Laptops,1455.68,894.08,59
+536,Onn Camping Second,Sports & Outdoors,Camping,109.78,83.19,119
+537,Parent's Choice Bakery Worry,Grocery,Bakery,6.55,4.57,68
+538,Great Value Action Figures Bad,Toys,Action Figures,25.35,16.79,124
+539,Equate Kitchen Cold,Household,Kitchen,52.05,41.37,113
+540,Better Homes Cleaning Allow,Household,Cleaning,24.89,16.85,79
+541,Better Homes Camping Matter,Sports & Outdoors,Camping,89.84,56.87,118
+542,Mainstays Dairy Hard,Grocery,Dairy,5.71,3.56,133
+543,Great Value Diapers Single,Baby,Diapers,21.19,14.01,62
+544,George Produce Environment,Grocery,Produce,3.55,2.58,199
+545,Onn Women Not,Apparel,Women,37.85,20.99,178
+546,George Smartphones Deal,Electronics,Smartphones,297.96,210.2,39
+547,Parent's Choice Camping Both,Sports & Outdoors,Camping,108.3,71.23,142
+548,George Team Sports Hotel,Sports & Outdoors,Team Sports,24.1,15.81,14
+549,Ozark Trail Feeding Toward,Baby,Feeding,26.14,18.04,116
+550,Ozark Trail Diapers Either,Baby,Diapers,37.84,23.83,32
+551,Hart Cosmetics Environmental,Health & Beauty,Cosmetics,23.5,16.87,17
+552,George Diapers Thank,Baby,Diapers,44.17,27.19,10
+553,Hyper Tough Snacks Television,Grocery,Snacks,3.97,3.03,116
+554,Ozark Trail Women Send,Apparel,Women,23.51,18.8,79
+555,Mainstays Diapers Raise,Baby,Diapers,37.01,22.42,109
+556,Mainstays Action Figures Later,Toys,Action Figures,59.34,44.26,13
+557,Hyper Tough Laptops Part,Electronics,Laptops,1551.9,1087.66,15
+558,Hart TVs Serious,Electronics,TVs,924.94,642.08,95
+559,Onn Bath Investment,Baby,Bath,36.01,25.89,138
+560,Ozark Trail Cosmetics Agree,Health & Beauty,Cosmetics,36.55,28.72,53
+561,Hyper Tough Educational Support,Toys,Educational,85.22,67.5,21
+562,Mainstays Cosmetics Standard,Health & Beauty,Cosmetics,48.28,33.14,76
+563,Hart Produce Sell,Grocery,Produce,5.81,3.91,146
+564,Equate Team Sports Rise,Sports & Outdoors,Team Sports,47.9,38.31,129
+565,Better Homes Action Figures Born,Toys,Action Figures,59.87,37.78,143
+566,Equate Camping Sell,Sports & Outdoors,Camping,73.46,50.39,32
+567,Onn Dairy Blood,Grocery,Dairy,1.66,1.31,167
+568,Onn Bath Minute,Baby,Bath,26.36,14.52,194
+569,George OTC Even,Health & Beauty,OTC,30.5,19.68,110
+570,Equate Feeding Way,Baby,Feeding,33.25,21.41,164
+571,Parent's Choice Personal Care Work,Health & Beauty,Personal Care,32.6,25.56,45
+572,George Snacks Especially,Grocery,Snacks,8.1,6.08,50
+573,Parent's Choice Smartphones Especially,Electronics,Smartphones,634.26,468.79,171
+574,Hyper Tough Personal Care If,Health & Beauty,Personal Care,34.02,23.44,49
+575,Great Value Team Sports Run,Sports & Outdoors,Team Sports,38.01,21.81,70
+576,Onn Canned Goods Condition,Grocery,Canned Goods,7.29,4.24,179
+577,Hart Camping High,Sports & Outdoors,Camping,171.48,133.17,167
+578,George Cleaning Fine,Household,Cleaning,18.63,13.54,26
+579,Hyper Tough Paper Goods Country,Household,Paper Goods,12.94,7.45,186
+580,Mainstays TVs Artist,Electronics,TVs,825.66,547.13,178
+581,Ozark Trail Dairy Court,Grocery,Dairy,4.68,2.62,196
+582,Hyper Tough Footwear Kind,Apparel,Footwear,72.56,57.2,120
+583,George Games Mention,Toys,Games,58.4,44.41,14
+584,Onn Cosmetics Key,Health & Beauty,Cosmetics,46.86,31.92,37
+585,Ozark Trail Educational Development,Toys,Educational,104.42,78.88,72
+586,George Paper Goods Somebody,Household,Paper Goods,9.97,6.32,105
+587,Hart Storage Stay,Household,Storage,18.95,14.54,118
+588,George Kids Window,Apparel,Kids,7.58,4.38,42
+589,Better Homes TVs Body,Electronics,TVs,205.11,138.22,15
+590,Onn Bath Reality,Baby,Bath,35.97,27.05,199
+591,Equate Action Figures Agency,Toys,Action Figures,44.83,28.76,131
+592,Ozark Trail Storage Notice,Household,Storage,54.74,31.86,157
+593,Ozark Trail Camping End,Sports & Outdoors,Camping,184.15,132.58,14
+594,Hyper Tough Action Figures Trial,Toys,Action Figures,32.25,21.78,90
+595,Great Value Action Figures Doctor,Toys,Action Figures,54.2,39.5,163
+596,Equate Dairy Country,Grocery,Dairy,4.06,2.48,142
+597,Mainstays Kitchen Chance,Household,Kitchen,8.34,6.22,152
+598,Better Homes Fitness Together,Sports & Outdoors,Fitness,163.22,129.0,150
+599,Hyper Tough Personal Care Reduce,Health & Beauty,Personal Care,15.44,9.63,116
+600,Great Value Storage Arm,Household,Storage,46.74,28.81,42
+601,Parent's Choice Bath Style,Baby,Bath,8.71,5.26,183
+602,Great Value Beverages Type,Grocery,Beverages,11.19,6.52,107
+603,Ozark Trail Personal Care Country,Health & Beauty,Personal Care,5.03,3.65,155
+604,Better Homes TVs Pretty,Electronics,TVs,1026.64,805.34,31
+605,Ozark Trail Bath Popular,Baby,Bath,5.2,3.36,134
+606,Better Homes Beverages Everyone,Grocery,Beverages,10.48,7.94,190
+607,Mainstays Bakery Also,Grocery,Bakery,9.74,5.42,167
+608,Onn Storage Church,Household,Storage,22.68,12.69,114
+609,George Women Better,Apparel,Women,58.37,36.38,161
+610,Parent's Choice Personal Care For,Health & Beauty,Personal Care,13.14,7.44,95
+611,Equate Men Color,Apparel,Men,39.3,27.24,138
+612,Better Homes Snacks Walk,Grocery,Snacks,11.65,7.82,164
+613,Equate Accessories Ball,Electronics,Accessories,56.75,39.49,136
+614,Equate Women Create,Apparel,Women,73.57,53.63,75
+615,Hart Diapers Federal,Baby,Diapers,44.96,24.98,38
+616,Great Value Feeding Always,Baby,Feeding,39.56,30.03,129
+617,Hyper Tough TVs Dog,Electronics,TVs,1482.03,1119.35,184
+618,Mainstays Diapers One,Baby,Diapers,54.28,41.88,74
+619,Better Homes Vitamins Specific,Health & Beauty,Vitamins,10.41,6.64,164
+620,Onn Audio Artist,Electronics,Audio,209.94,130.49,57
+621,Onn Snacks Letter,Grocery,Snacks,6.03,4.19,79
+622,Hart Women Result,Apparel,Women,76.48,56.64,50
+623,Parent's Choice Footwear But,Apparel,Footwear,20.71,12.26,155
+624,Equate Cosmetics Food,Health & Beauty,Cosmetics,25.45,15.9,159
+625,George Feeding Never,Baby,Feeding,49.94,35.33,169
+626,Equate Action Figures Common,Toys,Action Figures,16.87,9.46,102
+627,Hyper Tough Feeding Beautiful,Baby,Feeding,30.84,23.38,51
+628,George Cleaning Suddenly,Household,Cleaning,4.16,2.32,1
+629,Better Homes Diapers Beautiful,Baby,Diapers,59.61,38.7,14
+630,Better Homes Games Sell,Toys,Games,17.92,10.37,3
+631,Better Homes Personal Care Far,Health & Beauty,Personal Care,22.76,13.76,194
+632,Ozark Trail Diapers Far,Baby,Diapers,54.35,32.59,94
+633,Parent's Choice Storage Director,Household,Storage,19.91,15.67,25
+634,Onn Personal Care Assume,Health & Beauty,Personal Care,7.38,5.45,137
+635,Hart Team Sports Focus,Sports & Outdoors,Team Sports,56.04,39.98,57
+636,Hart Kids Network,Apparel,Kids,11.89,7.39,152
+637,Equate Educational Like,Toys,Educational,111.94,68.87,103
+638,Ozark Trail Paper Goods Thing,Household,Paper Goods,6.7,3.88,27
+639,Onn Camping Week,Sports & Outdoors,Camping,25.26,14.73,113
+640,Hyper Tough Cosmetics Manage,Health & Beauty,Cosmetics,59.15,40.77,87
+641,Hyper Tough Audio Performance,Electronics,Audio,61.55,43.64,132
+642,Onn Bath Computer,Baby,Bath,39.88,25.68,98
+643,Ozark Trail OTC Song,Health & Beauty,OTC,10.1,5.6,156
+644,Better Homes Team Sports Require,Sports & Outdoors,Team Sports,106.54,69.49,185
+645,Great Value Games Enjoy,Toys,Games,25.15,17.93,194
+646,Onn Bakery Choose,Grocery,Bakery,7.41,4.54,196
+647,Equate Men Evening,Apparel,Men,16.54,12.21,67
+648,Parent's Choice Bath Mrs,Baby,Bath,6.16,3.42,181
+649,Mainstays Fitness Also,Sports & Outdoors,Fitness,129.04,77.18,31
+650,Hyper Tough Laptops Between,Electronics,Laptops,1164.68,717.58,11
+651,Great Value Games Economic,Toys,Games,58.26,35.08,181
+652,Great Value Personal Care Situation,Health & Beauty,Personal Care,28.86,22.4,19
+653,Ozark Trail Audio Fact,Electronics,Audio,218.4,154.16,157
+654,Ozark Trail Snacks Bit,Grocery,Snacks,12.67,9.91,191
+655,Hyper Tough Audio Movie,Electronics,Audio,110.25,72.71,65
+656,Mainstays Paper Goods Toward,Household,Paper Goods,9.83,7.85,168
+657,Parent's Choice Vitamins Side,Health & Beauty,Vitamins,13.24,7.3,50
+658,Mainstays OTC Outside,Health & Beauty,OTC,5.88,4.54,49
+659,Hart Storage Commercial,Household,Storage,34.33,26.25,132
+660,Better Homes Men Drug,Apparel,Men,47.23,32.86,193
+661,Equate Bakery Success,Grocery,Bakery,8.87,5.62,175
+662,Onn Men Could,Apparel,Men,55.31,37.46,109
+663,Hyper Tough Canned Goods Quality,Grocery,Canned Goods,1.34,1.01,171
+664,Onn TVs Street,Electronics,TVs,523.3,344.29,80
+665,Mainstays Diapers Fall,Baby,Diapers,43.11,31.33,155
+666,Ozark Trail Bath Dark,Baby,Bath,4.37,2.43,69
+667,Hart Team Sports Realize,Sports & Outdoors,Team Sports,121.79,96.35,34
+668,Parent's Choice Cleaning Chance,Household,Cleaning,8.19,6.52,138
+669,Hyper Tough Educational Situation,Toys,Educational,29.87,16.75,117
+670,Equate Accessories Drop,Electronics,Accessories,103.67,74.59,62
+671,Equate Kitchen School,Household,Kitchen,27.89,22.14,92
+672,Mainstays Audio Reveal,Electronics,Audio,219.41,125.87,108
+673,Hart Produce Dog,Grocery,Produce,5.29,3.68,64
+674,Mainstays Fitness Interesting,Sports & Outdoors,Fitness,76.25,50.0,145
+675,Hyper Tough Cosmetics Ten,Health & Beauty,Cosmetics,41.86,30.69,59
+676,Onn Fitness Week,Sports & Outdoors,Fitness,146.37,112.41,111
+677,Hart Personal Care Develop,Health & Beauty,Personal Care,5.51,3.96,125
+678,Hyper Tough Kids Recent,Apparel,Kids,19.43,11.55,94
+679,Equate Produce Safe,Grocery,Produce,2.03,1.46,93
+680,Great Value Feeding Security,Baby,Feeding,49.77,28.8,19
+681,Hyper Tough Canned Goods Result,Grocery,Canned Goods,1.95,1.42,163
+682,Ozark Trail OTC Drive,Health & Beauty,OTC,7.27,5.75,46
+683,Mainstays Snacks Last,Grocery,Snacks,3.71,2.19,8
+684,Great Value Team Sports But,Sports & Outdoors,Team Sports,124.3,75.26,159
+685,Equate Footwear Night,Apparel,Footwear,94.45,59.26,112
+686,Equate Canned Goods Former,Grocery,Canned Goods,3.9,2.72,112
+687,Better Homes Educational Institution,Toys,Educational,96.47,72.78,165
+688,Parent's Choice Accessories Human,Electronics,Accessories,20.02,12.22,22
+689,Great Value Kitchen Success,Household,Kitchen,8.16,5.41,146
+690,Parent's Choice Smartphones Development,Electronics,Smartphones,542.07,433.53,74
+691,Hyper Tough Kids Have,Apparel,Kids,24.13,13.88,7
+692,Mainstays Feeding Face,Baby,Feeding,33.53,25.51,141
+693,Great Value Beverages Book,Grocery,Beverages,3.31,1.83,160
+694,Great Value Footwear Stop,Apparel,Footwear,60.64,39.82,121
+695,Hyper Tough Diapers Type,Baby,Diapers,59.1,33.44,84
+696,Onn Educational Back,Toys,Educational,11.42,9.05,121
+697,Hyper Tough Educational Suddenly,Toys,Educational,117.03,72.79,112
+698,Parent's Choice Cleaning Ever,Household,Cleaning,16.89,13.32,180
+699,Ozark Trail Accessories Performance,Electronics,Accessories,69.8,40.48,168
+700,Ozark Trail Fitness Pass,Sports & Outdoors,Fitness,173.66,129.94,62
+701,Mainstays Games Difficult,Toys,Games,61.86,48.11,194
+702,Better Homes Men Recognize,Apparel,Men,50.07,39.29,32
+703,Hyper Tough Snacks Leave,Grocery,Snacks,14.84,10.4,23
+704,Mainstays Beverages Instead,Grocery,Beverages,9.13,6.62,90
+705,Great Value Beverages Card,Grocery,Beverages,11.86,7.7,101
+706,Onn Storage Enter,Household,Storage,30.73,17.16,23
+707,Ozark Trail Personal Care Compare,Health & Beauty,Personal Care,37.66,28.27,143
+708,Mainstays Team Sports Form,Sports & Outdoors,Team Sports,48.5,28.35,180
+709,Better Homes OTC Cup,Health & Beauty,OTC,19.21,11.61,196
+710,Equate Action Figures Common,Toys,Action Figures,5.01,3.66,161
+711,George Smartphones Activity,Electronics,Smartphones,357.02,222.95,106
+712,Ozark Trail Footwear Model,Apparel,Footwear,56.79,40.81,192
+713,George Footwear Amount,Apparel,Footwear,21.75,16.29,149
+714,George Team Sports Lead,Sports & Outdoors,Team Sports,51.41,29.14,4
+715,Ozark Trail Kids Executive,Apparel,Kids,25.06,18.91,24
+716,Ozark Trail Smartphones Course,Electronics,Smartphones,712.94,486.0,125
+717,Better Homes Educational Quite,Toys,Educational,54.76,39.72,179
+718,Equate Feeding About,Baby,Feeding,49.8,36.48,175
+719,Hart Women Moment,Apparel,Women,38.95,21.53,149
+720,Hart Kids Every,Apparel,Kids,30.54,23.55,62
+721,Ozark Trail Men Career,Apparel,Men,55.58,44.31,48
+722,Mainstays Cleaning Discover,Household,Cleaning,17.88,10.92,189
+723,Parent's Choice Bath Technology,Baby,Bath,28.7,18.07,190
+724,Parent's Choice Smartphones Glass,Electronics,Smartphones,981.53,612.48,170
+725,George Canned Goods Movie,Grocery,Canned Goods,4.04,2.55,175
+726,Equate Action Figures Production,Toys,Action Figures,30.62,18.67,35
+727,Better Homes Canned Goods Support,Grocery,Canned Goods,6.15,4.64,152
+728,Great Value Action Figures Mission,Toys,Action Figures,13.94,9.02,112
+729,Parent's Choice Action Figures Yourself,Toys,Action Figures,47.44,32.23,109
+730,Mainstays Snacks Tell,Grocery,Snacks,2.31,1.55,76
+731,Hyper Tough Games Effort,Toys,Games,14.67,8.95,126
+732,George Bakery Society,Grocery,Bakery,9.36,7.08,168
+733,Ozark Trail Produce Professor,Grocery,Produce,1.04,0.66,104
+734,Ozark Trail Produce News,Grocery,Produce,4.47,3.57,93
+735,Great Value OTC Rise,Health & Beauty,OTC,4.61,2.67,53
+736,Better Homes Team Sports Statement,Sports & Outdoors,Team Sports,126.51,96.35,133
+737,Great Value Action Figures Year,Toys,Action Figures,9.84,7.15,31
+738,Hyper Tough Accessories Sound,Electronics,Accessories,110.09,87.19,165
+739,Hyper Tough Vitamins Law,Health & Beauty,Vitamins,12.04,8.4,187
+740,Hyper Tough OTC There,Health & Beauty,OTC,20.99,13.92,95
+741,Mainstays Bath Arrive,Baby,Bath,19.2,13.53,53
+742,George Cleaning Likely,Household,Cleaning,23.05,13.22,194
+743,Mainstays Personal Care There,Health & Beauty,Personal Care,35.31,22.71,179
+744,Better Homes Cosmetics Agree,Health & Beauty,Cosmetics,13.7,10.48,198
+745,Better Homes Games Not,Toys,Games,7.12,5.15,85
+746,George Cosmetics Hold,Health & Beauty,Cosmetics,20.13,11.79,72
+747,Equate Personal Care Bar,Health & Beauty,Personal Care,6.82,4.73,85
+748,George Cosmetics According,Health & Beauty,Cosmetics,28.6,22.65,3
+749,Parent's Choice Storage Above,Household,Storage,14.64,10.89,4
+750,Great Value Dairy Behavior,Grocery,Dairy,1.2,0.87,15
+751,Ozark Trail Diapers Put,Baby,Diapers,58.0,32.45,7
+752,Hart Bath Go,Baby,Bath,4.17,3.2,178
+753,Great Value Footwear The,Apparel,Footwear,113.55,71.45,118
+754,Better Homes TVs Which,Electronics,TVs,1360.04,979.22,193
+755,Parent's Choice Fitness Low,Sports & Outdoors,Fitness,234.37,159.88,121
+756,George Kitchen Both,Household,Kitchen,14.55,11.29,69
+757,Onn Vitamins Factor,Health & Beauty,Vitamins,40.83,23.63,1
+758,Onn Women Leg,Apparel,Women,31.7,24.46,18
+759,Equate Snacks Campaign,Grocery,Snacks,13.24,8.15,137
+760,Hart Snacks Democrat,Grocery,Snacks,2.02,1.53,130
+761,Ozark Trail Bath Land,Baby,Bath,6.55,4.26,82
+762,Mainstays Produce Treatment,Grocery,Produce,4.22,3.17,134
+763,George Bakery Throughout,Grocery,Bakery,2.01,1.48,95
+764,Ozark Trail Personal Care Really,Health & Beauty,Personal Care,19.57,12.28,159
+765,Mainstays Produce Which,Grocery,Produce,5.77,3.22,172
+766,Equate Fitness Region,Sports & Outdoors,Fitness,167.73,129.02,176
+767,Hart Diapers Student,Baby,Diapers,24.62,18.38,30
+768,Mainstays Laptops Teach,Electronics,Laptops,1157.97,696.76,34
+769,Ozark Trail Team Sports Simple,Sports & Outdoors,Team Sports,99.96,66.43,171
+770,Hyper Tough Games Along,Toys,Games,39.0,28.53,160
+771,Great Value OTC Other,Health & Beauty,OTC,26.65,21.28,3
+772,Ozark Trail Team Sports Rich,Sports & Outdoors,Team Sports,123.18,72.67,111
+773,Ozark Trail Camping Get,Sports & Outdoors,Camping,131.06,89.23,190
+774,Better Homes Feeding Why,Baby,Feeding,39.06,28.8,55
+775,Ozark Trail Snacks Will,Grocery,Snacks,6.65,4.33,26
+776,Onn Canned Goods Police,Grocery,Canned Goods,0.92,0.64,197
+777,Better Homes Beverages Everything,Grocery,Beverages,3.69,2.15,115
+778,Hart Kids Notice,Apparel,Kids,37.64,24.73,12
+779,Hyper Tough Fitness His,Sports & Outdoors,Fitness,126.41,87.27,135
+780,Onn Bakery Kitchen,Grocery,Bakery,4.25,2.83,127
+781,Equate Educational Live,Toys,Educational,54.81,33.51,9
+782,Better Homes Laptops Seek,Electronics,Laptops,936.25,719.82,88
+783,Equate Educational Enjoy,Toys,Educational,82.14,54.24,77
+784,Parent's Choice Produce Compare,Grocery,Produce,4.7,3.27,135
+785,George Feeding Organization,Baby,Feeding,29.92,19.05,24
+786,Mainstays Kids Street,Apparel,Kids,8.53,5.31,161
+787,Ozark Trail Fitness Mind,Sports & Outdoors,Fitness,174.19,122.46,46
+788,Ozark Trail Footwear Reality,Apparel,Footwear,93.27,66.09,51
+789,Parent's Choice Laptops Beyond,Electronics,Laptops,548.74,418.29,82
+790,Equate Action Figures Series,Toys,Action Figures,52.43,33.36,139
+791,Hart Team Sports Author,Sports & Outdoors,Team Sports,132.22,97.27,96
+792,Parent's Choice TVs Seem,Electronics,TVs,728.92,448.65,1
+793,Hyper Tough Footwear Sea,Apparel,Footwear,26.85,17.66,79
+794,Hart Women Middle,Apparel,Women,69.02,51.06,129
+795,Better Homes Footwear These,Apparel,Footwear,60.95,48.28,54
+796,George Kitchen Condition,Household,Kitchen,59.21,36.53,7
+797,Equate Camping Experience,Sports & Outdoors,Camping,179.95,109.61,74
+798,Hyper Tough Audio But,Electronics,Audio,152.45,114.42,142
+799,Mainstays Storage Decide,Household,Storage,51.05,39.28,75
+800,Great Value Storage Policy,Household,Storage,29.96,20.93,147
+801,Hyper Tough Cleaning Recently,Household,Cleaning,11.36,7.72,62
+802,Equate Vitamins Safe,Health & Beauty,Vitamins,31.49,21.88,152
+803,Hyper Tough Cleaning Cost,Household,Cleaning,14.98,10.54,68
+804,Onn Bakery Others,Grocery,Bakery,4.2,2.55,123
+805,Hart Laptops Maybe,Electronics,Laptops,1561.83,948.72,156
+806,Ozark Trail Action Figures Table,Toys,Action Figures,38.44,22.13,67
+807,Hart Storage Player,Household,Storage,10.55,7.35,140
+808,Equate Kids Including,Apparel,Kids,28.79,17.1,193
+809,Better Homes Camping Continue,Sports & Outdoors,Camping,95.01,55.97,64
+810,Equate Smartphones Officer,Electronics,Smartphones,162.66,94.73,160
+811,Hyper Tough Camping Back,Sports & Outdoors,Camping,140.52,92.16,135
+812,Hyper Tough Bath So,Baby,Bath,8.97,6.44,27
+813,Onn Vitamins Program,Health & Beauty,Vitamins,15.47,9.76,194
+814,Onn Cleaning Surface,Household,Cleaning,4.17,2.7,10
+815,Better Homes Produce Or,Grocery,Produce,2.57,1.82,131
+816,Parent's Choice Team Sports Like,Sports & Outdoors,Team Sports,44.51,33.42,164
+817,Parent's Choice Action Figures Three,Toys,Action Figures,38.77,29.67,133
+818,Equate Kitchen Whole,Household,Kitchen,38.49,23.83,178
+819,Parent's Choice Kids Indeed,Apparel,Kids,18.41,14.17,120
+820,Better Homes Fitness First,Sports & Outdoors,Fitness,296.51,212.33,77
+821,Ozark Trail Action Figures Sit,Toys,Action Figures,28.36,18.38,55
+822,Onn Action Figures Program,Toys,Action Figures,31.66,18.25,132
+823,Mainstays Cleaning High,Household,Cleaning,25.71,17.47,181
+824,George Educational Government,Toys,Educational,54.3,30.85,19
+825,Ozark Trail Fitness Word,Sports & Outdoors,Fitness,277.91,197.26,119
+826,Equate OTC Item,Health & Beauty,OTC,19.82,13.05,71
+827,Parent's Choice Cosmetics Draw,Health & Beauty,Cosmetics,15.39,9.45,22
+828,Onn Diapers Decade,Baby,Diapers,39.44,24.76,72
+829,Better Homes Cosmetics Before,Health & Beauty,Cosmetics,49.31,29.11,128
+830,George Laptops Region,Electronics,Laptops,1689.92,1339.04,168
+831,Mainstays Cleaning Special,Household,Cleaning,24.19,14.09,156
+832,Better Homes Cleaning Up,Household,Cleaning,29.31,22.51,87
+833,Hart Produce Local,Grocery,Produce,5.44,3.78,51
+834,Parent's Choice Men Man,Apparel,Men,20.09,14.15,158
+835,Mainstays Canned Goods High,Grocery,Canned Goods,5.27,3.59,56
+836,Parent's Choice Vitamins Government,Health & Beauty,Vitamins,33.94,22.42,50
+837,George Storage Capital,Household,Storage,5.27,3.79,185
+838,Parent's Choice Smartphones East,Electronics,Smartphones,430.99,255.25,198
+839,George Action Figures Home,Toys,Action Figures,15.77,10.59,67
+840,George Laptops Add,Electronics,Laptops,899.86,599.67,60
+841,Equate TVs Door,Electronics,TVs,307.06,211.13,190
+842,Ozark Trail Men Wrong,Apparel,Men,26.49,16.09,115
+843,George Kitchen Two,Household,Kitchen,13.35,8.05,93
+844,Hart Bath Rich,Baby,Bath,5.18,3.63,46
+845,Great Value TVs College,Electronics,TVs,1367.7,866.34,200
+846,Hart Games Rather,Toys,Games,7.94,6.22,16
+847,Hart Fitness Political,Sports & Outdoors,Fitness,258.12,201.8,4
+848,Great Value Bakery Well,Grocery,Bakery,8.98,6.09,129
+849,Better Homes Women Major,Apparel,Women,15.52,9.35,191
+850,Mainstays Games Another,Toys,Games,55.09,41.02,103
+851,Onn Vitamins Paper,Health & Beauty,Vitamins,22.49,12.41,33
+852,Parent's Choice Diapers Newspaper,Baby,Diapers,39.79,25.01,110
+853,Mainstays OTC Page,Health & Beauty,OTC,33.66,21.03,140
+854,Mainstays Accessories Share,Electronics,Accessories,77.76,47.47,119
+855,Equate Dairy Show,Grocery,Dairy,5.44,3.6,65
+856,Better Homes Bath Their,Baby,Bath,5.42,3.47,66
+857,Great Value Women Anything,Apparel,Women,54.68,37.86,26
+858,George Educational Avoid,Toys,Educational,16.7,13.07,191
+859,Better Homes Educational Million,Toys,Educational,44.93,29.1,161
+860,Parent's Choice Kids Avoid,Apparel,Kids,33.73,23.76,120
+861,Mainstays Kitchen Kitchen,Household,Kitchen,34.19,22.97,143
+862,Parent's Choice Vitamins Yes,Health & Beauty,Vitamins,38.06,27.08,167
+863,Ozark Trail Educational Opportunity,Toys,Educational,31.96,22.36,6
+864,Equate Feeding New,Baby,Feeding,18.16,10.36,99
+865,George Men Use,Apparel,Men,54.17,35.27,117
+866,Ozark Trail Action Figures Indeed,Toys,Action Figures,53.91,32.48,120
+867,Equate Footwear Budget,Apparel,Footwear,108.58,73.05,18
+868,Ozark Trail Storage Enter,Household,Storage,28.7,22.63,197
+869,Hyper Tough TVs Popular,Electronics,TVs,1427.49,995.5,15
+870,Parent's Choice Storage Institution,Household,Storage,20.9,13.94,172
+871,Mainstays Educational Senior,Toys,Educational,38.69,26.17,41
+872,George Canned Goods Lay,Grocery,Canned Goods,3.84,2.75,122
+873,Great Value Footwear Member,Apparel,Footwear,79.52,57.25,150
+874,Ozark Trail Camping Light,Sports & Outdoors,Camping,172.58,111.1,144
+875,Parent's Choice Action Figures Budget,Toys,Action Figures,16.85,11.04,189
+876,George Action Figures About,Toys,Action Figures,30.32,23.55,82
+877,Parent's Choice Canned Goods Finally,Grocery,Canned Goods,3.91,3.1,2
+878,Great Value Kids Night,Apparel,Kids,6.28,4.46,72
+879,Hyper Tough Vitamins Candidate,Health & Beauty,Vitamins,40.76,30.4,128
+880,Hart Women Stand,Apparel,Women,58.44,41.71,87
+881,Better Homes Men Positive,Apparel,Men,13.39,7.79,182
+882,Better Homes Fitness Yard,Sports & Outdoors,Fitness,287.4,182.69,92
+883,Great Value Bakery Assume,Grocery,Bakery,8.56,5.58,167
+884,Ozark Trail Games Strategy,Toys,Games,20.0,15.87,24
+885,Equate Team Sports Study,Sports & Outdoors,Team Sports,55.3,35.13,161
+886,Mainstays Produce Production,Grocery,Produce,5.26,2.98,161
+887,Mainstays Team Sports Manage,Sports & Outdoors,Team Sports,31.83,23.79,169
+888,Mainstays Storage Time,Household,Storage,7.85,6.12,139
+889,Ozark Trail OTC Per,Health & Beauty,OTC,30.5,18.7,42
+890,Mainstays Camping Character,Sports & Outdoors,Camping,191.37,129.02,2
+891,Great Value Men Where,Apparel,Men,50.18,37.3,105
+892,Equate Produce Cause,Grocery,Produce,3.13,2.33,75
+893,Great Value Action Figures Help,Toys,Action Figures,23.55,16.68,127
+894,George Kitchen Watch,Household,Kitchen,10.84,7.31,97
+895,Mainstays Snacks Increase,Grocery,Snacks,5.98,3.71,21
+896,Equate Canned Goods East,Grocery,Canned Goods,6.92,5.45,196
+897,Hyper Tough Educational Support,Toys,Educational,39.9,31.04,190
+898,Equate Kitchen Return,Household,Kitchen,69.83,50.51,21
+899,Hart Smartphones Heavy,Electronics,Smartphones,914.84,574.74,121
+900,Great Value Games Data,Toys,Games,42.56,28.62,56
+901,Better Homes Cleaning Very,Household,Cleaning,7.76,5.73,28
+902,Better Homes Games Live,Toys,Games,70.91,51.09,65
+903,Hyper Tough Cosmetics Happy,Health & Beauty,Cosmetics,42.55,33.41,153
+904,George Canned Goods Its,Grocery,Canned Goods,6.11,3.56,192
+905,Equate Diapers Movie,Baby,Diapers,28.01,19.61,81
+906,Hyper Tough Vitamins Only,Health & Beauty,Vitamins,6.16,3.79,48
+907,Equate Vitamins May,Health & Beauty,Vitamins,38.72,26.41,65
+908,Hart Footwear Fast,Apparel,Footwear,46.9,32.13,147
+909,George Vitamins Energy,Health & Beauty,Vitamins,7.92,4.79,107
+910,Great Value Footwear Test,Apparel,Footwear,27.64,16.05,83
+911,Hyper Tough Bath Often,Baby,Bath,35.68,21.53,63
+912,Equate Team Sports Actually,Sports & Outdoors,Team Sports,66.1,39.31,43
+913,Better Homes Diapers Miss,Baby,Diapers,52.66,38.38,146
+914,Mainstays Dairy Nation,Grocery,Dairy,3.2,2.54,109
+915,Parent's Choice Feeding Bed,Baby,Feeding,47.11,33.75,192
+916,Ozark Trail TVs Smile,Electronics,TVs,1082.75,820.79,165
+917,Equate Cleaning Cup,Household,Cleaning,17.58,11.94,126
+918,Parent's Choice Paper Goods Simple,Household,Paper Goods,17.21,13.71,114
+919,Onn Men Add,Apparel,Men,11.28,7.4,175
+920,Parent's Choice Educational Figure,Toys,Educational,43.65,28.02,172
+921,Parent's Choice Men Center,Apparel,Men,25.25,15.03,134
+922,George Vitamins Other,Health & Beauty,Vitamins,17.67,10.29,132
+923,Great Value Fitness Exist,Sports & Outdoors,Fitness,274.84,167.1,16
+924,Better Homes Team Sports Rock,Sports & Outdoors,Team Sports,31.72,22.02,111
+925,George Games Especially,Toys,Games,79.87,57.81,178
+926,Hart Footwear Under,Apparel,Footwear,63.41,47.42,166
+927,Mainstays Feeding War,Baby,Feeding,5.69,4.29,96
+928,Parent's Choice Camping Chair,Sports & Outdoors,Camping,115.47,73.85,97
+929,Hyper Tough Smartphones Contain,Electronics,Smartphones,547.82,359.49,131
+930,Onn Audio Health,Electronics,Audio,291.62,227.94,123
+931,Hart Snacks Either,Grocery,Snacks,14.86,11.06,118
+932,Mainstays Laptops Avoid,Electronics,Laptops,976.52,682.29,1
+933,Great Value Diapers Still,Baby,Diapers,16.83,11.58,87
+934,Onn Action Figures Exactly,Toys,Action Figures,43.8,31.54,29
+935,Hart Diapers Beat,Baby,Diapers,52.96,38.1,132
+936,Great Value Action Figures National,Toys,Action Figures,27.05,17.79,182
+937,Hyper Tough Personal Care Industry,Health & Beauty,Personal Care,13.07,7.48,178
+938,Hart Cosmetics Minute,Health & Beauty,Cosmetics,26.34,17.01,130
+939,Ozark Trail Team Sports Still,Sports & Outdoors,Team Sports,19.07,14.01,120
+940,George Paper Goods Authority,Household,Paper Goods,15.55,10.52,26
+941,Hart Kids Decision,Apparel,Kids,13.69,10.24,56
+942,Parent's Choice Vitamins Prove,Health & Beauty,Vitamins,15.11,9.58,56
+943,Onn Kids See,Apparel,Kids,8.52,6.8,84
+944,Great Value Storage Office,Household,Storage,39.46,29.81,111
+945,Onn Camping Available,Sports & Outdoors,Camping,169.29,127.25,112
+946,Equate Storage Language,Household,Storage,41.72,30.3,16
+947,Mainstays Canned Goods Something,Grocery,Canned Goods,7.87,5.64,189
+948,Hart Men Difference,Apparel,Men,21.03,11.99,170
+949,Equate Feeding Century,Baby,Feeding,19.46,15.52,123
+950,Parent's Choice Produce Wait,Grocery,Produce,3.34,2.5,78
+951,Ozark Trail Cleaning Skin,Household,Cleaning,23.92,13.58,85
+952,Great Value Kids Data,Apparel,Kids,20.46,14.34,182
+953,George Kids Tough,Apparel,Kids,17.62,11.74,133
+954,George Educational Around,Toys,Educational,38.53,30.01,172
+955,Hyper Tough Team Sports Teach,Sports & Outdoors,Team Sports,11.77,6.48,175
+956,Equate OTC Eat,Health & Beauty,OTC,11.31,7.16,197
+957,Mainstays Cleaning Here,Household,Cleaning,20.29,11.43,158
+958,George OTC Step,Health & Beauty,OTC,8.63,6.0,104
+959,Hart Laptops Set,Electronics,Laptops,1395.65,856.66,84
+960,Better Homes Action Figures Artist,Toys,Action Figures,53.91,38.62,124
+961,Mainstays Vitamins Still,Health & Beauty,Vitamins,15.58,9.57,37
+962,Mainstays Cleaning Morning,Household,Cleaning,24.38,15.28,141
+963,Better Homes Men Green,Apparel,Men,41.43,31.71,72
+964,Onn Paper Goods Mrs,Household,Paper Goods,12.19,8.31,127
+965,Ozark Trail Diapers Within,Baby,Diapers,43.12,30.33,54
+966,Onn Smartphones Foot,Electronics,Smartphones,689.11,479.14,125
+967,Parent's Choice Feeding Model,Baby,Feeding,44.66,31.11,34
+968,Hart Camping Republican,Sports & Outdoors,Camping,81.44,53.16,65
+969,Hart Laptops Approach,Electronics,Laptops,1658.18,1071.9,52
+970,Hyper Tough Action Figures Trip,Toys,Action Figures,54.49,33.85,113
+971,George Feeding Different,Baby,Feeding,31.17,18.16,185
+972,Equate Team Sports Improve,Sports & Outdoors,Team Sports,86.67,58.39,72
+973,George Women Democrat,Apparel,Women,16.77,11.72,41
+974,Hart Storage Whom,Household,Storage,25.31,14.54,19
+975,George Feeding Week,Baby,Feeding,9.31,5.49,137
+976,Hyper Tough Accessories Book,Electronics,Accessories,48.85,37.15,182
+977,Great Value Fitness Wide,Sports & Outdoors,Fitness,72.78,44.82,136
+978,Ozark Trail Camping Hospital,Sports & Outdoors,Camping,139.4,95.27,13
+979,Better Homes Games Least,Toys,Games,58.76,45.27,170
+980,Ozark Trail Footwear Nothing,Apparel,Footwear,56.04,32.08,146
+981,Mainstays Cleaning Run,Household,Cleaning,4.11,2.29,112
+982,Hart Feeding Hair,Baby,Feeding,26.32,19.58,120
+983,Better Homes Men Second,Apparel,Men,37.0,22.92,128
+984,Equate Cosmetics Process,Health & Beauty,Cosmetics,36.67,23.7,4
+985,Hart Camping Allow,Sports & Outdoors,Camping,165.57,109.74,145
+986,George Produce Consumer,Grocery,Produce,3.79,2.97,22
+987,George Bakery Season,Grocery,Bakery,9.07,5.6,94
+988,Great Value Feeding Idea,Baby,Feeding,16.75,10.38,138
+989,Great Value Cosmetics Each,Health & Beauty,Cosmetics,59.25,40.32,193
+990,Parent's Choice Bakery Issue,Grocery,Bakery,2.65,1.56,188
+991,Onn Feeding Subject,Baby,Feeding,38.09,29.14,148
+992,Hart Bath Half,Baby,Bath,30.03,19.67,36
+993,Ozark Trail Smartphones Better,Electronics,Smartphones,354.03,226.47,1
+994,Onn Produce Break,Grocery,Produce,3.8,2.16,72
+995,Equate Paper Goods Establish,Household,Paper Goods,10.08,6.96,84
+996,Great Value Games Human,Toys,Games,45.34,33.08,25
+997,Great Value Bath Machine,Baby,Bath,33.18,21.67,169
+998,Hart Fitness South,Sports & Outdoors,Fitness,174.67,138.73,196
+999,Better Homes OTC Mouth,Health & Beauty,OTC,27.68,22.09,113
+1000,Ozark Trail Canned Goods Fish,Grocery,Canned Goods,2.53,1.82,178
