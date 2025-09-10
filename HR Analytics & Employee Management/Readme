@@ -1,0 +1,11 @@
+This project analyzed turnover, pay, performance, training, managers, tenure, hiring, and high performers.
+Tables: departments, employees, performance_reviews, training_programs, employee_training.
+Analyses:
+      Turnover – rate & risk by department
+      Salary – min/max/avg/stdev/median by dept & role
+      Performance – latest scores, goals met, promo-ready
+      Training Effectiveness – participants, pass rate, ROI
+      Manager Effectiveness – span of control & team outcomes
+      Tenure – service brackets with KPIs
+      Hiring Trends – hires by month/year
+      High Performers – star/high/performer flags
