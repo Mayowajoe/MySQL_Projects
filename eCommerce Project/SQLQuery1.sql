@@ -1,6 +1,4 @@
 -- E-COMMERCE SALES ANALYSIS PROJECT
--- File: ecommerce_sales_analysis.sql
--- Description: Analyze sales performance, customer behavior, and product trends
 
 -- Create database schema
 CREATE DATABASE ecommerce_analytics;
@@ -238,7 +236,7 @@ GROUP BY order_number
 ORDER BY order_number;
 
 
--- 6. Seasonal Sales Pattern
+-- 7. Seasonal Sales Pattern
 SELECT 
     MONTH(order_date) AS month,
     DATENAME(MONTH, order_date) AS month_name,
@@ -251,7 +249,7 @@ GROUP BY MONTH(order_date), DATENAME(MONTH, order_date)
 ORDER BY month;
 
 
--- 7. Geographic Sales Distribution
+-- 8. Geographic Sales Distribution
 SELECT 
     c.state,
     c.country,
@@ -264,4 +262,5 @@ FROM customers c
 JOIN orders o ON c.customer_id = o.customer_id
 WHERE o.status = 'completed'
 GROUP BY c.state, c.country
+
 ORDER BY revenue DESC;
