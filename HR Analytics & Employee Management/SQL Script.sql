@@ -258,7 +258,7 @@ JOIN departments d ON e.dept_id = d.dept_id
 GROUP BY YEAR(hire_date), MONTH(hire_date), d.dept_name
 ORDER BY hire_year DESC, hire_month DESC;
 
--- 9. High Performer Identification
+-- 8. High Performer Identification
 SELECT 
     e.employee_id,
     CONCAT(e.first_name, ' ', e.last_name) as employee_name,
@@ -289,4 +289,5 @@ LEFT JOIN (
     GROUP BY employee_id
 ) et ON e.employee_id = et.employee_id
 WHERE e.status = 'Active'
+
 ORDER BY pr.performance_score DESC;
