@@ -1,2 +1,10 @@
-eCommerce Sales Analysis — MySQL
-Monthly Revenue Trend; Top Performing Products by Revenue; Customer Lifetime Value (CLV) Analysis with quick summary; Product Category Performance; Customer Retention Analysis; Geographic Sales Distribution.
+This project provided end-to-end e-commerce insights: revenue trends, product/category profitability, CLV & retention, seasonality, and geography.
+Tables: customers, products, orders, order_items.
+Analyses:
+      Monthly Revenue Trend (MoM growth & %)
+      Top Products by Revenue (units, profit, margin)
+      Customer Lifetime Value (segments: VIP/Loyal/Regular/New)
+      Category Performance (revenue, profit, margin, rank)
+      Customer Retention (avg days between first 5 orders)
+      Seasonal Sales Pattern (by month)
+      Geographic Sales (state/country, rev/customer)
