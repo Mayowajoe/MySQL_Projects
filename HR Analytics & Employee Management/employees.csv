@@ -1,0 +1,29 @@
+employee_id,first_name,last_name,email,hire_date,job_title,dept_id,salary,manager_id,status,termination_date
+1001,Alex,Morgan,alex.morgan@examplecorp.com,2018-02-12,Chief Operations Officer,5,180000.0,1001,Active,1900-01-01
+1002,Jordan,Lee,jordan.lee@examplecorp.com,2019-03-01,HR Manager,1,120000.0,1001,Active,1900-01-01
+1003,Taylor,Kim,taylor.kim@examplecorp.com,2019-03-01,Finance Manager,2,130000.0,1001,Active,1900-01-01
+1004,Morgan,Patel,morgan.patel@examplecorp.com,2019-03-01,IT Manager,3,135000.0,1001,Active,1900-01-01
+1005,Riley,Garcia,riley.garcia@examplecorp.com,2019-03-01,Sales Manager,4,125000.0,1001,Active,1900-01-01
+1006,Casey,Brown,casey.brown@examplecorp.com,2019-03-01,Analytics Manager,6,128000.0,1001,Active,1900-01-01
+1007,Avery,Nguyen,avery.nguyen@examplecorp.com,2021-01-10,HR Generalist,1,80000.0,1002,Active,1900-01-01
+1008,Rowan,Hernandez,rowan.hernandez@examplecorp.com,2021-06-20,HR Specialist,1,78000.0,1002,Active,1900-01-01
+1009,Jesse,King,jesse.king@examplecorp.com,2022-02-14,Recruiter,1,82000.0,1002,Active,1900-01-01
+1010,Sydney,Lopez,sydney.lopez@examplecorp.com,2020-11-05,Financial Analyst,2,95000.0,1003,Active,1900-01-01
+1011,Cameron,Wilson,cameron.wilson@examplecorp.com,2021-09-09,Accounts Payable Specialist,2,70000.0,1003,Active,1900-01-01
+1012,Adrian,Young,adrian.young@examplecorp.com,2022-05-03,Accounts Receivable Specialist,2,70000.0,1003,Active,1900-01-01
+1013,Dakota,Wright,dakota.wright@examplecorp.com,2020-03-22,Software Engineer,3,120000.0,1004,Active,1900-01-01
+1014,Elliot,Green,elliot.green@examplecorp.com,2021-07-17,Systems Administrator,3,105000.0,1004,Active,1900-01-01
+1015,Finley,Hall,finley.hall@examplecorp.com,2022-10-08,Data Engineer,3,125000.0,1004,Active,1900-01-01
+1016,Harper,Scott,harper.scott@examplecorp.com,2020-04-12,Sales Executive,4,110000.0,1005,Active,1900-01-01
+1017,Logan,Adams,logan.adams@examplecorp.com,2021-02-01,Account Manager,4,108000.0,1005,Active,1900-01-01
+1018,Kendall,Baker,kendall.baker@examplecorp.com,2022-03-18,BDR,4,80000.0,1005,Active,1900-01-01
+1019,Parker,Carter,parker.carter@examplecorp.com,2020-06-30,Operations Analyst,5,98000.0,1001,Active,1900-01-01
+1020,Quinn,Rivera,quinn.rivera@examplecorp.com,2021-08-23,Logistics Coordinator,5,88000.0,1001,Active,1900-01-01
+1021,Reese,Perry,reese.perry@examplecorp.com,2022-01-11,Procurement Specialist,5,92000.0,1001,Active,1900-01-01
+1022,Skyler,Cruz,skyler.cruz@examplecorp.com,2020-09-09,Data Analyst,6,102000.0,1006,Active,1900-01-01
+1023,Jamie,Davis,jamie.davis@examplecorp.com,2021-05-15,Data Scientist,6,130000.0,1006,Terminated,2024-11-30
+1024,Drew,Martinez,drew.martinez@examplecorp.com,2020-09-09,BI Developer,6,112000.0,1006,Terminated,2023-08-01
+1025,Rowan,Nguyen,rowan.nguyen@examplecorp.com,2022-07-22,ML Engineer,6,138000.0,1006,Active,1900-01-01
+1026,Jesse,Lopez,jesse.lopez@examplecorp.com,2021-12-05,IT Support Specialist,3,85000.0,1004,Active,1900-01-01
+1027,Avery,Kim,avery.kim@examplecorp.com,2023-01-19,Sales Ops Analyst,4,95000.0,1005,Active,1900-01-01
+1028,Cameron,Lee,cameron.lee@examplecorp.com,2022-11-29,Accounts Payable Specialist,2,71000.0,1003,Active,1900-01-01
